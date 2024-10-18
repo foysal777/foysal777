@@ -1,6 +1,6 @@
 ![](https://i.ibb.co.com/2t1BN7Y/cover.png)
 
-Hello, I'm Foysal Hossain.
+Hello, I'm Foysal Hossain.😁❤️
 I'm a backend developer with a strong passion for Python, JavaScript, Django, RDBMS, REST APIs, and more.
 
 - 🌱 I’m currently learning new things regularly . 
