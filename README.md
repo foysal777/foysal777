@@ -1,16 +1,13 @@
-## Hi there 👋
+![](https://i.ibb.co.com/xmCWGJk/Black-Minimalist-Corporate-Business-Personal-Profile-Linked-In-Banner.png)
 
-<!--
-**foysal777/foysal777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Foysal Hossain.
+I'm a backend developer with a strong passion for Python, JavaScript, Django, RDBMS, REST APIs, and more.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning new things regularly . 
+- 💬 Ask me about Django, DRF , python  
+- 📫 How to reach me: foysal.cse11@gmail.com 
+- ⚡ Fun fact: jokes with me 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
