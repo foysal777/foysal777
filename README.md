@@ -10,22 +10,23 @@ I'm a backend developer with a strong passion for Python, JavaScript, Django, RD
 - ⚡ Fun fact: jokes with me 
 
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex: 1;">  
-    <p style="margin-right: 20px;">
-      I'm a backend developer with a strong passion for Python, JavaScript, Django, RDBMS, REST APIs, and more.
-      
-      - 🌱 I’m currently learning new things regularly.  
-      - 💬 Ask me about Django, DRF, Python.  
-      - 📫 How to reach me: foysal.cse11@gmail.com  
-      - ⚡ Fun fact: Jokes with me!  
-    </p>
-  </div>
-
-  <div>  
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRTi0FNNaPhsBcV5WTcB98a90omLXNpSGuhQ&s" alt="My Image" width="150px">
-  </div>
-</div>
+<table style="width: 100%;">
+  <tr>
+    <td>
+      <p>
+        I'm a backend developer with a strong passion for Python, JavaScript, Django, RDBMS, REST APIs, and more.
+        
+        - 🌱 I’m currently learning new things regularly.<br>
+        - 💬 Ask me about Django, DRF, Python.<br>
+        - 📫 How to reach me: foysal.cse11@gmail.com<br>
+        - ⚡ Fun fact: Jokes with me!
+      </p>
+    </td>
+    <td style="text-align: right;">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRTi0FNNaPhsBcV5WTcB98a90omLXNpSGuhQ&s" alt="My Image" width="150px">
+    </td>
+  </tr>
+</table>
 
 
 
