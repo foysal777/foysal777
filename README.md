@@ -10,18 +10,19 @@ I'm a backend developer with a strong passion for Python, JavaScript, Django, RD
 - ⚡ Fun fact: jokes with me 
 
 
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <p>
+<div style="display: flex; align-items: center;">
+  <p style="margin-right: 20px;">
     I'm a backend developer with a strong passion for Python, JavaScript, Django, RDBMS, REST APIs, and more.
+    
+    - 🌱 I’m currently learning new things regularly.  
+    - 💬 Ask me about Django, DRF, Python.  
+    - 📫 How to reach me: foysal.cse11@gmail.com  
+    - ⚡ Fun fact: Jokes with me!  
   </p>
-  
-  - 🌱 I’m currently learning new things regularly.
-  - 💬 Ask me about Django, DRF, Python.
-  - 📫 How to reach me: foysal.cse11@gmail.com
-  - ⚡ Fun fact: Jokes with me!
-  
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRTi0FNNaPhsBcV5WTcB98a90omLXNpSGuhQ&s" alt="My Image" width="200px">
+
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRTi0FNNaPhsBcV5WTcB98a90omLXNpSGuhQ&s" alt="My Image" width="150px">
 </div>
+
 
 
 
