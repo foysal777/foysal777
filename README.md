@@ -20,7 +20,7 @@ I'm a backend developer with a strong passion for Python, JavaScript, Django, RD
   - 📫 How to reach me: foysal.cse11@gmail.com
   - ⚡ Fun fact: Jokes with me!
   
-  <img src="[https://via.placeholder.com/150](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRTi0FNNaPhsBcV5WTcB98a90omLXNpSGuhQ&s)" alt="My Image" width="200px">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRTi0FNNaPhsBcV5WTcB98a90omLXNpSGuhQ&s" alt="My Image" width="200px">
 </div>
 
 
