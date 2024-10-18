@@ -32,22 +32,6 @@ I'm a backend developer with a strong passion for Python, JavaScript, Django, RD
   <img alt="Coding" width="200" src="https://i.ibb.co/DC7T0YV/boom.png">
 </div>
 
-<style>
-  .content {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-  
-  .content p {
-    flex: 1;
-    margin-right: 20px; /* Optional spacing between text and image */
-  }
-
-  .content img {
-    margin-left: 20px;
-  }
-</style>
 
   
 
