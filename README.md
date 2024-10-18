@@ -27,7 +27,7 @@ I'm a backend developer with a strong passion for Python, JavaScript, Django, RD
   - 📫 How to reach me: foysal.cse11@gmail.com  
   - ⚡ Fun fact: Jokes with me!  
 
-  <img align="right" alt="Coding" width="600" src="https://i.ibb.co/DC7T0YV/boom.png">
+  <img align="right" alt="Coding" width="400" src="https://i.ibb.co/DC7T0YV/boom.png">
 </div>
 
 
