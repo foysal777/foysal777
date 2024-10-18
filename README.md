@@ -1,7 +1,8 @@
 ![](https://i.ibb.co.com/2t1BN7Y/cover.png)
 
 <h1>  <b>  Hello, I'm Foysal Hossain.😁❤️ </b>  </h1>  <br>
-<div>
+
+<!-- <div>
 I'm a backend developer with a strong passion for Python, JavaScript, Django, RDBMS, REST APIs, and more.
 
 - 🌱 I’m currently learning new things regularly . 
@@ -13,8 +14,21 @@ I'm a backend developer with a strong passion for Python, JavaScript, Django, RD
 
   </div>
 <br> 
-<br> <br> 
 
+
+-->
+
+
+<div>
+  I'm a backend developer with a strong passion for Python, JavaScript, Django, RDBMS, REST APIs, and more.
+
+  - 🌱 I’m currently learning new things regularly.  
+  - 💬 Ask me about Django, DRF, Python.  
+  - 📫 How to reach me: foysal.cse11@gmail.com  
+  - ⚡ Fun fact: Jokes with me!  
+
+  <img align="right" alt="Coding" width="400" src="https://i.ibb.co/DC7T0YV/boom.png">
+</div>
 
   
 
