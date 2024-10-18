@@ -19,17 +19,15 @@ I'm a backend developer with a strong passion for Python, JavaScript, Django, RD
 -->
 
 
-<div class="content">
-  <p>
-    I'm a backend developer with a strong passion for <br> Python, JavaScript, Django, RDBMS, REST APIs, and more.
-    <br><br>
-    - 🌱 I’m currently learning new things regularly. <br>
-    - 💬 Ask me about Django, DRF, Python. <br>
-    - 📫 How to reach me: foysal.cse11@gmail.com <br>
-    - ⚡ Fun fact: Jokes with me!
-  </p>
+<div>
+  I'm a backend developer with a strong passion for Python, JavaScript, Django, RDBMS, REST APIs, and more.
 
-  <img alt="Coding" width="200" src="https://i.ibb.co/DC7T0YV/boom.png">
+  - 🌱 I’m currently learning new things regularly.  
+  - 💬 Ask me about Django, DRF, Python.  
+  - 📫 How to reach me: foysal.cse11@gmail.com  
+  - ⚡ Fun fact: Jokes with me!  
+
+  <img align="right" alt="Coding" width="300" src="https://i.ibb.co/DC7T0YV/boom.png">
 </div>
 
 
