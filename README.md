@@ -16,11 +16,10 @@ I'm a backend developer with a strong passion for Python, JavaScript, Django, RD
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=foysal777&show_icons=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/foysal777/contributions?format=svg&private=false)  
-
 ![GitHub metrics](https://metrics.lecoq.io/foysal777)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=foysal777)  
+
 
 
 
