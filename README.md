@@ -10,8 +10,8 @@ I'm a backend developer with a strong passion for Python, JavaScript, Django, RD
 - ⚡ Fun fact: jokes with me 
 
 
-<div style="display: flex; align-items: center;">
-  <div>  
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 1;">  
     <p style="margin-right: 20px;">
       I'm a backend developer with a strong passion for Python, JavaScript, Django, RDBMS, REST APIs, and more.
       
