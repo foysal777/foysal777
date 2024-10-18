@@ -13,6 +13,20 @@ I'm a backend developer with a strong passion for Python, JavaScript, Django, RD
 
   </div>
 
+
+<div>
+  I'm a backend developer with a strong passion for Python, JavaScript, Django, RDBMS, REST APIs, and more.
+
+  - 🌱 I’m currently learning new things regularly.  
+  - 💬 Ask me about Django, DRF, Python.  
+  - 📫 How to reach me: foysal.cse11@gmail.com  
+  - ⚡ Fun fact: Jokes with me!  
+
+  <img align="right" alt="Coding" width="400" src="https://i.ibb.co/DC7T0YV/boom.png">
+</div>
+
+  
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100037662442075) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/foysalhossain707/) 
 
