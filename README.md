@@ -20,7 +20,10 @@ I'm a backend developer with a strong passion for Python, JavaScript, Django, RD
 
 
 <div>
-  I'm a backend developer with a strong passion for Python, JavaScript, Django, RDBMS, REST APIs, and more.
+ I'm a backend developer with a deep expertise in building scalable and efficient server-side applications.
+My primary focus is on Python and JavaScript, where I leverage their flexibility and power to create robust solutions.
+I specialize in Django for web development, using it to craft secure and maintainable web applications with ease.
+Additionally, I have a strong command of relational databases (RDBMS) and REST APIs, ensuring seamless data management and communication across systems.
 
   - 🌱 I’m currently learning new things regularly.  
   - 💬 Ask me about Django, DRF, Python.  
