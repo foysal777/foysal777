@@ -1,6 +1,6 @@
 ![](https://i.ibb.co.com/2t1BN7Y/cover.png)
 
-<h1>  <b>  Hello, I'm Foysal Hossain.😁❤️ </b>  </h1>  <br>
+<h1>  <b>  Hi there, I'm Foysal Hossain.😁❤️ </b>  </h1>  <br>
 
 <!-- <div>
 I'm a backend developer with a strong passion for Python, JavaScript, Django, RDBMS, REST APIs, and more.
