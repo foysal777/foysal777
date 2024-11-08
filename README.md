@@ -27,7 +27,8 @@ Additionally, I have a strong command of relational databases (RDBMS) and REST A
 
   - 🌱 I’m currently learning new things regularly.  
   - 💬 Ask me about Django, DRF, Python.  
-  - 📫 How to reach me: foysal.cse11@gmail.com  
+  - 📫 How to reach me: foysal.cse11@gmail.com
+  - portfolio link : https://foysal777.github.io/foysal-portfolio/
   - ⚡ Fun fact: Jokes with me!  
 
 
