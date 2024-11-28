@@ -1,6 +1,6 @@
 ![](https://i.ibb.co.com/2t1BN7Y/cover.png)
 
-<h1 class = "center">  <b>  Hi there, I'm Foysal Hossain.😁❤️ </b>  </h1>  <br>
+<h1 align="center">  <b>  Hi there, I'm Foysal Hossain.😁❤️ </b>  </h1>  <br>
 
 <!-- <div>
 I'm a backend developer with a strong passion for Python, JavaScript, Django, RDBMS, REST APIs, and more.
@@ -28,7 +28,7 @@ Additionally, I have a strong command of relational databases (RDBMS) and REST A
   - 🌱 I’m currently learning new things regularly.  
   - 💬 Ask me about Django, DRF, Python.  
   - 📫 How to reach me: foysal.cse11@gmail.com
-  - portfolio link : https://foysal777.github.io/foysal-portfolio/
+  - 🌟 portfolio link : https://foysal777.github.io/foysal-portfolio/
   - ⚡ Fun fact: Jokes with me!  
 
 
