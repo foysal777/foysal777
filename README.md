@@ -29,7 +29,7 @@ Additionally, I have a strong command of relational databases (RDBMS) and REST A
   - 💬 Ask me about Django, DRF, Python.  
   - 📫 How to reach me: foysal.cse11@gmail.com
   - 🌟 portfolio link : https://foysal777.github.io/foysal-portfolio/
-  - Latest Portfolio : https://foysal-portfolio-snowy.vercel.app/
+  - Latest Portfolio : https://foysal-portfolio-rust.vercel.app/
   - ⚡ Fun fact: Jokes with me!  
 
 
