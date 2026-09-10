@@ -48,6 +48,7 @@ Additionally, I have a strong command of relational databases (RDBMS) and REST A
   <img src="https://github-readme-stats-chi-ecru-11.vercel.app/api?username=foysal777&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=0&v=3" /><br/>
   <img src="https://streak-stats.demolab.com/?user=foysal777&theme=vision-friendly-dark&hide_border=false&timezone=Asia/Dhaka&cache_seconds=0&v=3" /><br/>
   <img src="https://github-readme-stats-chi-ecru-11.vercel.app/api/top-langs/?username=foysal777&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=0&v=3" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=foysal777&theme=vision-friendly-dark&hide_border=false&timezone=Asia/Dhaka&cache_seconds=0&v=3" />
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
